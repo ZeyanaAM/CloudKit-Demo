@@ -1,0 +1,6 @@
+framework module Pods_CloudKit_DemoTests {
+  umbrella header "Pods-CloudKit DemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
